@@ -1,2 +1,3 @@
 # DashboardBrasileiraoPBI
 Dashboard do campeonato brasileiro criado no Power BI
+Link para visualização https://app.powerbi.com/view?r=eyJrIjoiOGM4NDU4ZGQtMDcwYi00YzNkLWFjOWUtYmQxYmE5NjUwNDM2IiwidCI6IjYzMzY5NTQ2LWE2NzAtNGVjNy05M2JkLTRmYjlkOGI5ZjNhZSJ9&pageName=ReportSection0d05250529e0ac419453
