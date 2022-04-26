@@ -1,0 +1,381 @@
+MATCH|MATCHDAY|DATE|TIME|GROUND|REFEREE|STYLE
+3546473|1. Matchday|30/05/2021|00:00:00|Arena Pantanal|Denis Ribeiro Serafim|Normal
+3546467|1. Matchday|30/05/2021|01:00:00|Estadio Governador Roberto Santos|Bruno Arleu De Araujo|Normal
+3546466|1. Matchday|30/05/2021|02:00:00|Estadio Cicero Pompeu De Toledo|Rodolpho Toski Marques|Normal
+3546470|1. Matchday|30/05/2021|16:00:00|Estadio Governador Magalhaes Pinto|Caio Max Augusto Vieira|Normal
+3546464|1. Matchday|30/05/2021|21:00:00|Estadio Jornalista Mario Filho|Anderson Daronco|Normal
+3546471|1. Matchday|30/05/2021|21:00:00|Estadio Governador Placido Castelo|Savio Pereira Sampaio|Normal
+3546468|1. Matchday|30/05/2021|23:15:00|Arena Conda|Marielson Alves Silva|Normal
+3546469|1. Matchday|30/05/2021|23:15:00|Neo Quimica Arena|Felipe Fernandes|Normal
+3546472|1. Matchday|30/05/2021|23:15:00|Arena Da Baixada|Jefferson Ferreira Moraes|Normal
+3546465|1. Matchday|31/05/2021|01:30:00|Estadio Beirario|Vinicius Goncalves Dias Araujo|Normal
+3546476|2. Matchday|06/06/2021|00:00:00|Estadio Antonio Accioly|Diego Pombo Lopez|Normal
+3546478|2. Matchday|06/06/2021|02:00:00|Estadio Nabi Abi Chedid|Vinicius Gomes|Normal
+3546479|2. Matchday|06/06/2021|02:00:00|Estadio Urbano Caldeira|Jean Pierre Goncalves Lima|Normal
+3546481|2. Matchday|06/06/2021|16:00:00|Estadio Sao Januario|Edina Alves Batista|Normal
+3546474|2. Matchday|06/06/2021|21:00:00|Estadio Raimundo Sampaio|Marcelo De Lima Henrique Rj|Normal
+3546483|2. Matchday|06/06/2021|21:00:00|Estadio Governador Placido Castelo|Paulo Roberto Alves Junior|Normal
+3546475|2. Matchday|06/06/2021|23:15:00|Estadio Alfredo Jaconi|Paulo Cesar Zanovelli|Normal
+3546480|2. Matchday|06/06/2021|23:15:00|Allianz Parque|Leo Simao Holanda|Normal
+3546477|2. Matchday|07/06/2021|01:30:00|Estadio Adelmar Da Costa Carvalho|Raphael Claus|Normal
+3546482|2. Matchday|24/11/2021|01:00:00|Arena Do Gremio|Braulio Da Silva Machado|Normal
+3571593|3. Matchday|13/06/2021|00:00:00|Allianz Parque|Flavio Rodrigues De Souza|Normal
+3571594|3. Matchday|13/06/2021|00:00:00|Estadio Urbano Caldeira|Alexandre Vargas Tavares|Normal
+3571595|3. Matchday|13/06/2021|21:00:00|Estadio Governador Magalhaes Pinto|Anderson Daronco|Normal
+3571596|3. Matchday|13/06/2021|21:00:00|Arena Do Gremio|Ricardo Marques Ribeiro Mg|Normal
+3571600|3. Matchday|13/06/2021|21:00:00|Estadio Jornalista Mario Filho|Ramon Abatti|Normal
+3571597|3. Matchday|14/06/2021|01:30:00|Estadio Nabi Abi Chedid|Leandro Pedro Vuaden Rs|Normal
+3571598|3. Matchday|14/06/2021|01:30:00|Estadio Governador Roberto Santos|Wagner Do Nascimento Magalhaes|Normal
+3571599|3. Matchday|14/06/2021|01:30:00|Estadio Governador Placido Castelo|Braulio Da Silva Machado|Normal
+3571601|3. Matchday|14/06/2021|01:30:00|Arena Conda|Vinicius Goncalves Dias Araujo|Normal
+3571602|3. Matchday|22/07/2021|00:00:00|Arena Pantanal|Dyorgines Jose Padovani|Normal
+3572009|4. Matchday|17/06/2021|00:00:00|Estadio Cicero Pompeu De Toledo|Dyorgines Jose Padovani|Normal
+3572010|4. Matchday|17/06/2021|00:00:00|Estadio Beirario|Luiz Flavio De Oliveira Sp|Normal
+3572011|4. Matchday|17/06/2021|01:30:00|Neo Quimica Arena|Thiago Scarascati|Normal
+3572012|4. Matchday|17/06/2021|02:30:00|Estadio Alfredo Jaconi|Marielson Alves Silva|Normal
+3572016|4. Matchday|17/06/2021|21:00:00|Estadio Raimundo Sampaio|Antonio Dib Moraes De Sousa|Normal
+3572017|4. Matchday|17/06/2021|21:00:00|Estadio Governador Placido Castelo|Marcelo De Lima Henrique Rj|Normal
+3572014|4. Matchday|18/06/2021|00:00:00|Estadio Adelmar Da Costa Carvalho|Denis Ribeiro Serafim|Normal
+3572015|4. Matchday|18/06/2021|00:00:00|Estadio Jornalista Mario Filho|Paulo Roberto Alves Junior|Normal
+3572018|4. Matchday|18/06/2021|00:00:00|Estadio Antonio Accioly|Douglas Schwengber|Normal
+3572013|4. Matchday|02/11/2021|20:00:00|Arena Da Baixada|Marielson Alves Silva|Normal
+3572020|5. Matchday|20/06/2021|02:00:00|Estadio Jornalista Mario Filho|Braulio Da Silva Machado|Normal
+3572021|5. Matchday|20/06/2021|16:00:00|Allianz Parque|Jefferson Ferreira Moraes|Normal
+3572022|5. Matchday|20/06/2021|21:00:00|Estadio Beirario|Diego Pombo Lopez|Normal
+3572023|5. Matchday|20/06/2021|21:00:00|Estadio Governador Roberto Santos|Bruno Arleu De Araujo|Normal
+3572019|5. Matchday|20/06/2021|23:15:00|Estadio Urbano Caldeira|Savio Pereira Sampaio|Normal
+3572024|5. Matchday|20/06/2021|23:15:00|Arena Da Baixada|Felipe Fernandes|Normal
+3572025|5. Matchday|20/06/2021|23:15:00|Estadio Governador Placido Castelo|Flavio Rodrigues De Souza|Normal
+3572027|5. Matchday|21/06/2021|01:30:00|Estadio Alfredo Jaconi|Edina Alves Batista|Normal
+3572028|5. Matchday|22/06/2021|01:00:00|Estadio Governador Magalhaes Pinto|Rodolpho Toski Marques|Normal
+3572026|5. Matchday|19/08/2021|00:00:00|Arena Pantanal|Leo Simao Holanda|Normal
+3580694|6. Matchday|24/06/2021|00:00:00|Estadio Jornalista Mario Filho|Anderson Daronco|Normal
+3580695|6. Matchday|24/06/2021|00:00:00|Estadio Antonio Accioly|Paulo Cesar Zanovelli|Normal
+3580696|6. Matchday|24/06/2021|00:00:00|Estadio Nabi Abi Chedid|Luiz Flavio De Oliveira Sp|Normal
+3580698|6. Matchday|24/06/2021|00:00:00|Estadio Cicero Pompeu De Toledo|Ricardo Marques Ribeiro Mg|Normal
+3580700|6. Matchday|24/06/2021|21:00:00|Estadio Raimundo Sampaio|Wagner Do Nascimento Magalhaes|Normal
+3580701|6. Matchday|25/06/2021|00:00:00|Neo Quimica Arena|Paulo Roberto Alves Junior|Normal
+3580702|6. Matchday|25/06/2021|00:00:00|Estadio Governador Placido Castelo|Leandro Pedro Vuaden Rs|Normal
+3580703|6. Matchday|25/06/2021|00:00:00|Arena Conda|Alexandre Vargas Tavares|Normal
+3580697|6. Matchday|25/06/2021|02:30:00|Arena Do Gremio|Caio Max Augusto Vieira|Normal
+3580699|6. Matchday|25/06/2021|02:30:00|Arena Fonte Nova|Antonio Dib Moraes De Sousa|Normal
+3580707|7. Matchday|27/06/2021|16:00:00|Estadio Alfredo Jaconi|Thiago Scarascati|Normal
+3580708|7. Matchday|27/06/2021|21:00:00|Estadio Sao Januario|Savio Pereira Sampaio|Normal
+3580705|7. Matchday|28/06/2021|01:00:00|Arena Do Gremio|Marcelo De Lima Henrique Rj|Normal
+3580706|7. Matchday|28/06/2021|01:00:00|Allianz Parque|Denis Ribeiro Serafim|Normal
+3580710|7. Matchday|28/06/2021|01:00:00|Arena Da Baixada|Vinicius Gomes|Normal
+3580709|7. Matchday|28/06/2021|01:30:00|Estadio Urbano Caldeira|Bruno Arleu De Araujo|Normal
+3580711|7. Matchday|28/06/2021|01:30:00|Estadio Governador Placido Castelo|Felipe Fernandes|Normal
+3580712|7. Matchday|28/06/2021|01:30:00|Estadio Adelmar Da Costa Carvalho|Marielson Alves Silva|Normal
+3580713|7. Matchday|28/06/2021|01:30:00|Estadio Raimundo Sampaio|Braulio Da Silva Machado|Normal
+3580714|7. Matchday|29/06/2021|01:00:00|Estadio Antonio Accioly|Ramon Abatti|Normal
+3580715|8. Matchday|30/06/2021|21:00:00|Estadio Governador Placido Castelo|Antonio Dib Moraes De Sousa|Normal
+3580718|8. Matchday|30/06/2021|21:00:00|Estadio General Sylvio Raulino De Oliveira|Ricardo Marques Ribeiro Mg|Normal
+3580716|8. Matchday|01/07/2021|00:00:00|Estadio Beirario|Paulo Roberto Alves Junior|Normal
+3580717|8. Matchday|01/07/2021|00:00:00|Estadio Governador Roberto Santos|Leo Simao Holanda|Normal
+3580719|8. Matchday|01/07/2021|01:30:00|Estadio Urbano Caldeira|Douglas Schwengber|Normal
+3580720|8. Matchday|01/07/2021|02:30:00|Estadio Alfredo Jaconi|Vinicius Goncalves Dias Araujo|Normal
+3580721|8. Matchday|01/07/2021|02:30:00|Neo Quimica Arena|Leandro Pedro Vuaden Rs|Normal
+3580722|8. Matchday|01/07/2021|21:00:00|Estadio Nabi Abi Chedid|Wagner Do Nascimento Magalhaes|Normal
+3580723|8. Matchday|02/07/2021|00:00:00|Estadio Governador Magalhaes Pinto|Flavio Rodrigues De Souza|Normal
+3580724|8. Matchday|02/07/2021|01:00:00|Arena Pantanal|Rodolpho Toski Marques|Normal
+3583802|9. Matchday|04/07/2021|00:00:00|Estadio Raimundo Sampaio|Denis Ribeiro Serafim|Normal
+3583806|9. Matchday|04/07/2021|00:00:00|Arena Da Baixada|Paulo Cesar Zanovelli|Normal
+3583800|9. Matchday|04/07/2021|02:00:00|Neo Quimica Arena|Marcelo De Lima Henrique Rj|Normal
+3583807|9. Matchday|04/07/2021|16:00:00|Arena Conda|Edina Alves Batista|Normal
+3583799|9. Matchday|04/07/2021|21:00:00|Neo Quimica Arena|Luiz Flavio De Oliveira Sp|Normal
+3583805|9. Matchday|04/07/2021|21:00:00|Estadio Adelmar Da Costa Carvalho|Caio Max Augusto Vieira|Normal
+3583801|9. Matchday|04/07/2021|23:15:00|Estadio Cicero Pompeu De Toledo|Anderson Daronco|Normal
+3583804|9. Matchday|04/07/2021|23:15:00|Estadio Governador Placido Castelo|Alisson Sidnei Furtado|Normal
+3583808|9. Matchday|04/07/2021|23:15:00|Arena Pantanal|Savio Pereira Sampaio|Normal
+3583803|9. Matchday|05/07/2021|01:30:00|Arena Do Gremio|Marielson Alves Silva|Normal
+3583811|10. Matchday|07/07/2021|00:30:00|Estadio Urbano Caldeira|Vinicius Gomes|Normal
+3583814|10. Matchday|07/07/2021|23:00:00|Estadio Governador Placido Castelo|Thiago Scarascati|Normal
+3583815|10. Matchday|07/07/2021|23:00:00|Estadio Governador Roberto Santos|Douglas Marques Flores|Normal
+3583816|10. Matchday|07/07/2021|23:00:00|Estadio Nabi Abi Chedid|Douglas Schwengber|Normal
+3583810|10. Matchday|08/07/2021|00:00:00|Allianz Parque|Felipe Fernandes|Normal
+3583812|10. Matchday|08/07/2021|00:00:00|Estadio Governador Magalhaes Pinto|Paulo Roberto Alves Junior|Normal
+3583818|10. Matchday|08/07/2021|00:15:00|Estadio Antonio Accioly|Leo Simao Holanda|Normal
+3583809|10. Matchday|08/07/2021|02:30:00|Estadio General Sylvio Raulino De Oliveira|Ramon Abatti|Normal
+3583813|10. Matchday|08/07/2021|02:30:00|Estadio Beirario|Bruno Arleu De Araujo|Normal
+3583817|10. Matchday|09/07/2021|02:00:00|Arena Conda|Ricardo Marques Ribeiro Mg|Normal
+3583820|11. Matchday|10/07/2021|21:30:00|Allianz Parque|Braulio Da Silva Machado|Normal
+3583823|11. Matchday|10/07/2021|21:30:00|Arena Do Gremio|Flavio Rodrigues De Souza|Normal
+3583826|11. Matchday|10/07/2021|22:00:00|Arena Da Baixada|Leandro Pedro Vuaden Rs|Normal
+3583821|11. Matchday|11/07/2021|00:00:00|Estadio Cicero Pompeu De Toledo|Marcelo De Lima Henrique Rj|Normal
+3583822|11. Matchday|11/07/2021|00:00:00|Estadio Raimundo Sampaio|Anderson Daronco|Normal
+3583825|11. Matchday|11/07/2021|00:00:00|Estadio Adelmar Da Costa Carvalho|Antonio Dib Moraes De Sousa|Normal
+3583827|11. Matchday|11/07/2021|16:00:00|Estadio Alfredo Jaconi|Wagner Do Nascimento Magalhaes|Normal
+3583819|11. Matchday|11/07/2021|23:15:00|Estadio Jornalista Mario Filho|Paulo Cesar Zanovelli|Normal
+3583828|11. Matchday|11/07/2021|23:15:00|Arena Pantanal|Edina Alves Batista|Normal
+3583824|11. Matchday|12/07/2021|01:30:00|Estadio Governador Placido Castelo|Caio Max Augusto Vieira|Normal
+3583831|12. Matchday|17/07/2021|22:00:00|Estadio Cicero Pompeu De Toledo|Savio Pereira Sampaio|Normal
+3583834|12. Matchday|17/07/2021|22:00:00|Estadio Governador Placido Castelo|Marielson Alves Silva|Normal
+3583830|12. Matchday|18/07/2021|00:00:00|Neo Quimica Arena|Jean Pierre Goncalves Lima|Normal
+3583829|12. Matchday|18/07/2021|02:00:00|Estadio Jornalista Mario Filho|Paulo Roberto Alves Junior|Normal
+3583837|12. Matchday|18/07/2021|16:00:00|Arena Conda|Jefferson Ferreira Moraes|Normal
+3583838|12. Matchday|18/07/2021|21:00:00|Estadio Antonio Accioly|Denis Ribeiro Serafim|Normal
+3583835|12. Matchday|18/07/2021|23:15:00|Estadio Governador Roberto Santos|Wilton Sampaio|Normal
+3583833|12. Matchday|19/07/2021|01:30:00|Estadio Beirario|Rodolpho Toski Marques|Normal
+3583836|12. Matchday|19/07/2021|01:30:00|Estadio Nabi Abi Chedid|Luiz Flavio De Oliveira Sp|Normal
+3583832|12. Matchday|20/07/2021|01:00:00|Estadio Raimundo Sampaio|Vinicius Gomes|Normal
+3583843|13. Matchday|24/07/2021|22:00:00|Arena Do Gremio|Alisson Sidnei Furtado|Normal
+3583840|13. Matchday|25/07/2021|00:00:00|Allianz Parque|Savio Pereira Sampaio|Normal
+3583842|13. Matchday|25/07/2021|16:00:00|Estadio Raimundo Sampaio|Antonio Dib Moraes De Sousa|Normal
+3583839|13. Matchday|25/07/2021|21:00:00|Estadio Jornalista Mario Filho|Felipe Fernandes|Normal
+3583844|13. Matchday|25/07/2021|21:00:00|Estadio Governador Placido Castelo|Bruno Arleu De Araujo|Normal
+3583841|13. Matchday|25/07/2021|23:15:00|Estadio Urbano Caldeira|Leandro Pedro Vuaden Rs|Normal
+3583846|13. Matchday|25/07/2021|23:15:00|Arena Da Baixada|Thiago Scarascati|Normal
+3583845|13. Matchday|26/07/2021|01:30:00|Estadio Adelmar Da Costa Carvalho|Vinicius Goncalves Dias Araujo|Normal
+3583847|13. Matchday|26/07/2021|23:00:00|Estadio Alfredo Jaconi|Leo Simao Holanda|Normal
+3583848|13. Matchday|27/07/2021|01:00:00|Arena Pantanal|Ramon Abatti|Normal
+3583871|14. Matchday|01/08/2021|00:00:00|Estadio Cicero Pompeu De Toledo|Luiz Flavio De Oliveira Sp|Normal
+3583873|14. Matchday|01/08/2021|01:00:00|Estadio Beirario|Paulo Cesar Zanovelli|Normal
+3583876|14. Matchday|01/08/2021|02:00:00|Estadio Nabi Abi Chedid|Ricardo Marques Ribeiro Mg|Normal
+3583870|14. Matchday|01/08/2021|21:00:00|Neo Quimica Arena|Leandro Pedro Vuaden Rs|Normal
+3583872|14. Matchday|01/08/2021|21:00:00|Estadio Governador Magalhaes Pinto|Braulio Da Silva Machado|Normal
+3583875|14. Matchday|01/08/2021|23:15:00|Estadio Governador Roberto Santos|Jefferson Ferreira Moraes|Normal
+3583877|14. Matchday|01/08/2021|23:15:00|Arena Conda|Rodolpho Toski Marques|Normal
+3583874|14. Matchday|02/08/2021|01:30:00|Estadio Governador Placido Castelo|Denis Ribeiro Serafim|Normal
+3583878|14. Matchday|02/08/2021|01:30:00|Estadio Antonio Accioly|Douglas Marques Flores|Normal
+3583869|14. Matchday|03/09/2021|00:00:00|Estadio Jornalista Mario Filho|Heber Lopes|Normal
+3583865|15. Matchday|07/08/2021|00:00:00|Estadio Adelmar Da Costa Carvalho|Wagner Do Nascimento Magalhaes|Normal
+3583866|15. Matchday|07/08/2021|23:00:00|Arena Da Baixada|Jean Pierre Goncalves Lima|Normal
+3583860|15. Matchday|08/08/2021|02:00:00|Allianz Parque|Wilton Sampaio|Normal
+3583868|15. Matchday|08/08/2021|02:00:00|Arena Pantanal|Heber Lopes|Normal
+3583861|15. Matchday|08/08/2021|21:00:00|Estadio Urbano Caldeira|Flavio Rodrigues De Souza|Normal
+3583862|15. Matchday|08/08/2021|21:00:00|Estadio Raimundo Sampaio|Marielson Alves Silva|Normal
+3583867|15. Matchday|08/08/2021|21:00:00|Estadio Alfredo Jaconi|Andre Luiz De Freitas Castro|Normal
+3583859|15. Matchday|08/08/2021|23:15:00|Estadio Jornalista Mario Filho|Paulo Roberto Alves Junior|Normal
+3583864|15. Matchday|08/08/2021|23:15:00|Estadio Governador Placido Castelo|Rafael Traci|Normal
+3583863|15. Matchday|10/08/2021|01:00:00|Arena Do Gremio|Marcelo De Lima Henrique Rj|Normal
+3583856|16. Matchday|14/08/2021|22:00:00|Estadio Nabi Abi Chedid|Denis Ribeiro Serafim|Normal
+3583852|16. Matchday|15/08/2021|00:00:00|Estadio Governador Magalhaes Pinto|Bruno Arleu De Araujo|Normal
+3583851|16. Matchday|15/08/2021|02:00:00|Estadio Cicero Pompeu De Toledo|Braulio Da Silva Machado|Normal
+3583849|16. Matchday|15/08/2021|21:00:00|Estadio General Sylvio Raulino De Oliveira|Raphael Claus|Normal
+3583850|16. Matchday|15/08/2021|21:00:00|Neo Quimica Arena|Rodolpho Toski Marques|Normal
+3583854|16. Matchday|15/08/2021|23:15:00|Estadio Governador Placido Castelo|Andre Luiz De Freitas Castro|Normal
+3583855|16. Matchday|15/08/2021|23:15:00|Estadio Governador Roberto Santos|Ricardo Marques Ribeiro Mg|Normal
+3583858|16. Matchday|15/08/2021|23:15:00|Arena Pantanal|Alisson Sidnei Furtado|Normal
+3583853|16. Matchday|16/08/2021|01:30:00|Estadio Beirario|Luiz Flavio De Oliveira Sp|Normal
+3583857|16. Matchday|17/08/2021|01:00:00|Arena Conda|Douglas Schwengber|Normal
+3583888|17. Matchday|21/08/2021|22:00:00|Estadio Antonio Accioly|Adriano Barros|Normal
+3583883|17. Matchday|22/08/2021|00:00:00|Arena Do Gremio|Caio Max Augusto Vieira|Normal
+3583887|17. Matchday|22/08/2021|02:00:00|Estadio Alfredo Jaconi|Raphael Claus|Normal
+3583880|17. Matchday|22/08/2021|16:00:00|Allianz Parque|Anderson Daronco|Normal
+3583884|17. Matchday|22/08/2021|21:00:00|Estadio Governador Placido Castelo|Leandro Pedro Vuaden Rs|Normal
+3583886|17. Matchday|22/08/2021|21:00:00|Arena Da Baixada|Wilton Sampaio|Normal
+3583881|17. Matchday|22/08/2021|23:15:00|Estadio Urbano Caldeira|Wagner Do Nascimento Magalhaes|Normal
+3583885|17. Matchday|23/08/2021|01:30:00|Estadio Adelmar Da Costa Carvalho|Paulo Roberto Alves Junior|Normal
+3583879|17. Matchday|24/08/2021|01:00:00|Estadio Sao Januario|Flavio Rodrigues De Souza|Normal
+3583882|17. Matchday|24/08/2021|01:00:00|Estadio Raimundo Sampaio|Rafael Traci|Normal
+3583895|18. Matchday|28/08/2021|22:00:00|Estadio Adelmar Da Costa Carvalho|Jefferson Ferreira Moraes|Normal
+3583891|18. Matchday|29/08/2021|00:00:00|Estadio Urbano Caldeira|Braulio Da Silva Machado|Normal
+3583890|18. Matchday|29/08/2021|02:00:00|Allianz Parque|Leandro Pedro Vuaden Rs|Normal
+3583893|18. Matchday|29/08/2021|02:00:00|Arena Do Gremio|Ricardo Marques Ribeiro Mg|Normal
+3583892|18. Matchday|29/08/2021|16:00:00|Estadio Raimundo Sampaio|Raphael Claus|Normal
+3583897|18. Matchday|29/08/2021|21:00:00|Estadio Alfredo Jaconi|Antonio Dib Moraes De Sousa|Normal
+3583898|18. Matchday|29/08/2021|23:15:00|Estadio Antonio Accioly|Marielson Alves Silva|Normal
+3583896|18. Matchday|30/08/2021|01:30:00|Estadio Nabi Abi Chedid|Ramon Abatti|Normal
+3583889|18. Matchday|31/08/2021|00:00:00|Estadio Jornalista Mario Filho|Edina Alves Batista|Normal
+3583894|18. Matchday|31/08/2021|02:30:00|Estadio Governador Placido Castelo|Paulo Cesar Zanovelli|Normal
+3583905|19. Matchday|05/09/2021|02:00:00|Estadio Governador Roberto Santos|Luiz Flavio De Oliveira Sp|Normal
+3583908|19. Matchday|05/09/2021|02:00:00|Arena Pantanal|Bruno Arleu De Araujo|Normal
+3583906|19. Matchday|05/09/2021|23:15:00|Arena Da Baixada|Denis Ribeiro Serafim|Normal
+3583900|19. Matchday|08/09/2021|02:30:00|Neo Quimica Arena|Ramon Abatti|Normal
+3583907|19. Matchday|08/09/2021|02:30:00|Arena Conda|Savio Pereira Sampaio|Normal
+3583901|19. Matchday|23/09/2021|01:30:00|Estadio Cicero Pompeu De Toledo|Braulio Da Silva Machado|Normal
+3583904|19. Matchday|21/10/2021|00:00:00|Estadio Governador Placido Castelo|Andre Luiz De Freitas Castro|Normal
+3583903|19. Matchday|22/10/2021|01:00:00|Estadio Beirario|Marielson Alves Silva|Normal
+3583902|19. Matchday|04/11/2021|01:00:00|Estadio Governador Magalhaes Pinto|Luiz Flavio De Oliveira Sp|Normal
+3583899|19. Matchday|06/11/2021|01:30:00|Estadio Jornalista Mario Filho|Rodolpho Toski Marques|Normal
+3583932|20. Matchday|11/09/2021|21:00:00|Estadio Raimundo Sampaio|Marielson Alves Silva|Normal
+3583937|20. Matchday|11/09/2021|22:00:00|Estadio Alfredo Jaconi|Caio Max Augusto Vieira|Normal
+3583936|20. Matchday|12/09/2021|00:00:00|Estadio Nabi Abi Chedid|Marcelo De Lima Henrique Rj|Normal
+3583931|20. Matchday|12/09/2021|02:00:00|Estadio Urbano Caldeira|Paulo Cesar Zanovelli|Normal
+3583933|20. Matchday|12/09/2021|16:00:00|Arena Do Gremio|Flavio Rodrigues De Souza|Normal
+3583930|20. Matchday|12/09/2021|21:00:00|Allianz Parque|Wilton Sampaio|Normal
+3583934|20. Matchday|12/09/2021|21:00:00|Estadio Governador Placido Castelo|Braulio Da Silva Machado|Normal
+3583938|20. Matchday|12/09/2021|23:15:00|Estadio Antonio Accioly|Antonio Dib Moraes De Sousa|Normal
+3583929|20. Matchday|13/09/2021|01:30:00|Estadio Jornalista Mario Filho|Jefferson Ferreira Moraes|Normal
+3583935|20. Matchday|14/09/2021|01:00:00|Estadio Adelmar Da Costa Carvalho|Andre Luiz De Freitas Castro|Normal
+3583927|21. Matchday|18/09/2021|22:00:00|Arena Conda|Paulo Roberto Alves Junior|Normal
+3583926|21. Matchday|18/09/2021|23:45:00|Arena Da Baixada|Leo Simao Holanda|Normal
+3583922|21. Matchday|19/09/2021|00:00:00|Estadio Governador Magalhaes Pinto|Vinicius Goncalves Dias Araujo|Normal
+3583924|21. Matchday|19/09/2021|02:00:00|Estadio Governador Placido Castelo|Anderson Daronco|Normal
+3583925|21. Matchday|19/09/2021|02:00:00|Estadio Governador Roberto Santos|Wilton Sampaio|Normal
+3583923|21. Matchday|19/09/2021|16:00:00|Estadio Beirario|Edina Alves Batista|Normal
+3583921|21. Matchday|19/09/2021|21:00:00|Estadio Cicero Pompeu De Toledo|Caio Max Augusto Vieira|Normal
+3583920|21. Matchday|19/09/2021|23:15:00|Neo Quimica Arena|Savio Pereira Sampaio|Normal
+3583919|21. Matchday|20/09/2021|01:30:00|Estadio Jornalista Mario Filho|Marielson Alves Silva|Normal
+3583928|21. Matchday|21/09/2021|01:00:00|Arena Pantanal|Ramon Abatti|Normal
+3583914|22. Matchday|25/09/2021|22:00:00|Estadio Governador Placido Castelo|Caio Max Augusto Vieira|Normal
+3583910|22. Matchday|26/09/2021|00:00:00|Neo Quimica Arena|Raphael Claus|Normal
+3583911|22. Matchday|26/09/2021|02:00:00|Estadio Cicero Pompeu De Toledo|Wilton Sampaio|Normal
+3583912|22. Matchday|26/09/2021|16:00:00|Estadio Raimundo Sampaio|Anderson Daronco|Normal
+3583909|22. Matchday|26/09/2021|21:00:00|Estadio Jornalista Mario Filho|Leandro Pedro Vuaden Rs|Normal
+3583913|22. Matchday|26/09/2021|21:00:00|Estadio Beirario|Bruno Arleu De Araujo|Normal
+3583917|22. Matchday|26/09/2021|21:00:00|Estadio Alfredo Jaconi|Jefferson Ferreira Moraes|Normal
+3583915|22. Matchday|26/09/2021|23:15:00|Arena De Pernambuco|Wagner Do Nascimento Magalhaes|Normal
+3583916|22. Matchday|26/09/2021|23:15:00|Arena Da Baixada|Luiz Flavio De Oliveira Sp|Normal
+3583918|22. Matchday|27/09/2021|01:30:00|Estadio Antonio Accioly|Marielson Alves Silva|Normal
+3583944|23. Matchday|02/10/2021|22:00:00|Estadio Governador Placido Castelo|Alisson Sidnei Furtado|Normal
+3583948|23. Matchday|02/10/2021|22:00:00|Arena Pantanal|Rafael Traci|Normal
+3583946|23. Matchday|03/10/2021|00:00:00|Estadio Nabi Abi Chedid|Flavio Rodrigues De Souza|Normal
+3583942|23. Matchday|03/10/2021|02:00:00|Estadio Governador Magalhaes Pinto|Luiz Flavio De Oliveira Sp|Normal
+3583939|23. Matchday|03/10/2021|21:00:00|Estadio Jornalista Mario Filho|Savio Pereira Sampaio|Normal
+3583947|23. Matchday|03/10/2021|21:00:00|Arena Conda|Marielson Alves Silva|Normal
+3583940|23. Matchday|03/10/2021|23:15:00|Allianz Parque|Marcelo De Lima Henrique Rj|Normal
+3583943|23. Matchday|04/10/2021|01:30:00|Arena Do Gremio|Felipe Fernandes|Normal
+3583941|23. Matchday|28/10/2021|00:00:00|Estadio Urbano Caldeira|Wilton Sampaio|Normal
+3583945|23. Matchday|28/10/2021|00:00:00|Arena Fonte Nova|Antonio Dib Moraes De Sousa|Normal
+3583950|24. Matchday|06/10/2021|02:30:00|Neo Quimica Arena|Denis Ribeiro Serafim|Normal
+3583954|24. Matchday|07/10/2021|00:00:00|Estadio Governador Placido Castelo|Rodolpho Toski Marques|Normal
+3583955|24. Matchday|07/10/2021|00:00:00|Arena De Pernambuco|Braulio Da Silva Machado|Normal
+3583957|24. Matchday|07/10/2021|00:00:00|Arena Conda|Andre Luiz De Freitas Castro|Normal
+3583958|24. Matchday|07/10/2021|00:00:00|Estadio Antonio Accioly|Wagner Do Nascimento Magalhaes|Normal
+3583956|24. Matchday|07/10/2021|01:30:00|Estadio Nabi Abi Chedid|Ramon Abatti|Normal
+3583949|24. Matchday|07/10/2021|02:30:00|Estadio Jornalista Mario Filho|Paulo Roberto Alves Junior|Normal
+3583952|24. Matchday|07/10/2021|02:30:00|Estadio Raimundo Sampaio|Leandro Pedro Vuaden Rs|Normal
+3583953|24. Matchday|07/10/2021|02:30:00|Arena Do Gremio|Wilton Sampaio|Normal
+3583951|24. Matchday|07/10/2021|23:30:00|Estadio Cicero Pompeu De Toledo|Raphael Claus|Normal
+3583959|25. Matchday|09/10/2021|21:30:00|Estadio Jornalista Mario Filho|Edina Alves Batista|Normal
+3583962|25. Matchday|09/10/2021|21:30:00|Estadio Governador Magalhaes Pinto|Jefferson Ferreira Moraes|Normal
+3583965|25. Matchday|09/10/2021|21:30:00|Arena De Pernambuco|Savio Pereira Sampaio|Normal
+3583964|25. Matchday|10/10/2021|00:00:00|Estadio Governador Placido Castelo|Felipe Fernandes|Normal
+3583966|25. Matchday|10/10/2021|00:00:00|Arena Da Baixada|Marcelo De Lima Henrique Rj|Normal
+3583960|25. Matchday|10/10/2021|02:00:00|Allianz Parque|Rafael Traci|Normal
+3583967|25. Matchday|10/10/2021|02:00:00|Estadio Alfredo Jaconi|Alexandre Vargas Tavares|Normal
+3583963|25. Matchday|10/10/2021|16:00:00|Estadio Beirario|Alisson Sidnei Furtado|Normal
+3583961|25. Matchday|10/10/2021|21:00:00|Estadio Urbano Caldeira|Bruno Arleu De Araujo|Normal
+3583968|25. Matchday|12/10/2021|01:00:00|Arena Pantanal|Anderson Daronco|Normal
+3583996|26. Matchday|13/10/2021|00:00:00|Estadio Nabi Abi Chedid|Savio Pereira Sampaio|Normal
+3583995|26. Matchday|13/10/2021|02:30:00|Arena Fonte Nova|Ramon Abatti|Normal
+3583989|26. Matchday|14/10/2021|00:00:00|Estadio Jornalista Mario Filho|Andre Luiz De Freitas Castro|Normal
+3583992|26. Matchday|14/10/2021|00:00:00|Estadio Governador Magalhaes Pinto|Paulo Roberto Alves Junior|Normal
+3583997|26. Matchday|14/10/2021|00:00:00|Arena Conda|Luiz Flavio De Oliveira Sp|Normal
+3583994|26. Matchday|14/10/2021|01:30:00|Estadio Governador Placido Castelo|Vinicius Goncalves Dias Araujo|Normal
+3583990|26. Matchday|14/10/2021|02:00:00|Neo Quimica Arena|Marielson Alves Silva|Normal
+3583993|26. Matchday|14/10/2021|02:30:00|Estadio Beirario|Caio Max Augusto Vieira|Normal
+3583991|26. Matchday|15/10/2021|00:00:00|Estadio Cicero Pompeu De Toledo|Paulo Cesar Zanovelli|Normal
+3583998|26. Matchday|15/10/2021|00:00:00|Arena Pantanal|Leandro Pedro Vuaden Rs|Normal
+3583987|27. Matchday|17/10/2021|00:00:00|Arena Conda|Zandick Gondim|Normal
+3583982|27. Matchday|17/10/2021|02:00:00|Estadio Raimundo Sampaio|Alisson Sidnei Furtado|Normal
+3583980|27. Matchday|17/10/2021|21:00:00|Allianz Parque|Braulio Da Silva Machado|Normal
+3583986|27. Matchday|17/10/2021|21:00:00|Arena Da Baixada|Felipe Fernandes|Normal
+3583983|27. Matchday|17/10/2021|23:15:00|Arena Do Gremio|Marcelo De Lima Henrique Rj|Normal
+3583984|27. Matchday|17/10/2021|23:15:00|Estadio Governador Placido Castelo|Wagner Do Nascimento Magalhaes|Normal
+3583988|27. Matchday|17/10/2021|23:15:00|Estadio Antonio Accioly|Raphael Claus|Normal
+3583979|27. Matchday|18/10/2021|01:30:00|Estadio Jornalista Mario Filho|Flavio Rodrigues De Souza|Normal
+3583985|27. Matchday|18/10/2021|01:30:00|Arena De Pernambuco|Anderson Daronco|Normal
+3583981|27. Matchday|19/10/2021|01:00:00|Estadio Cicero Pompeu De Toledo|Leandro Pedro Vuaden Rs|Normal
+3583971|28. Matchday|23/10/2021|22:00:00|Estadio Urbano Caldeira|Marcelo De Lima Henrique Rj|Normal
+3583977|28. Matchday|23/10/2021|22:00:00|Estadio Alfredo Jaconi|Rodolpho Toski Marques|Normal
+3583969|28. Matchday|24/10/2021|00:00:00|Estadio Jornalista Mario Filho|Vinicius Goncalves Dias Araujo|Normal
+3583974|28. Matchday|24/10/2021|00:15:00|Estadio Governador Placido Castelo|Denis Ribeiro Serafim|Normal
+3583972|28. Matchday|24/10/2021|21:00:00|Estadio Governador Magalhaes Pinto|Savio Pereira Sampaio|Normal
+3583973|28. Matchday|24/10/2021|21:00:00|Estadio Beirario|Bruno Arleu De Araujo|Normal
+3583976|28. Matchday|24/10/2021|23:15:00|Estadio Nabi Abi Chedid|Felipe Fernandes|Normal
+3583975|28. Matchday|25/10/2021|01:30:00|Arena Fonte Nova|Wilton Sampaio|Normal
+3583978|28. Matchday|26/10/2021|01:00:00|Estadio Antonio Accioly|Caio Max Augusto Vieira|Normal
+3583970|28. Matchday|26/10/2021|02:30:00|Allianz Parque|Wagner Do Nascimento Magalhaes|Normal
+3584006|29. Matchday|30/10/2021|22:00:00|Arena Da Baixada|Leandro Pedro Vuaden Rs|Normal
+3583999|29. Matchday|31/10/2021|00:00:00|Estadio Jornalista Mario Filho|Anderson Daronco|Normal
+3584007|29. Matchday|31/10/2021|00:15:00|Estadio Alfredo Jaconi|Paulo Roberto Alves Junior|Normal
+3584002|29. Matchday|31/10/2021|02:00:00|Estadio Raimundo Sampaio|Flavio Rodrigues De Souza|Normal
+3584003|29. Matchday|31/10/2021|20:00:00|Arena Do Gremio|Savio Pereira Sampaio|Normal
+3584004|29. Matchday|31/10/2021|20:00:00|Estadio Governador Placido Castelo|Raphael Claus|Normal
+3584001|29. Matchday|31/10/2021|22:15:00|Estadio Cicero Pompeu De Toledo|Andre Luiz De Freitas Castro|Normal
+3584005|29. Matchday|01/11/2021|00:30:00|Arena De Pernambuco|Luiz Flavio De Oliveira Sp|Normal
+3584008|29. Matchday|02/11/2021|00:00:00|Arena Pantanal|Jefferson Ferreira Moraes|Normal
+3584000|29. Matchday|02/11/2021|01:30:00|Neo Quimica Arena|Paulo Cesar Zanovelli|Normal
+3584010|30. Matchday|06/11/2021|21:00:00|Neo Quimica Arena|Ramon Abatti|Normal
+3584013|30. Matchday|06/11/2021|23:00:00|Estadio Beirario|Marcelo De Lima Henrique Rj|Normal
+3584009|30. Matchday|07/11/2021|01:00:00|Estadio Jornalista Mario Filho|Jefferson Ferreira Moraes|Normal
+3584011|30. Matchday|07/11/2021|20:00:00|Estadio Urbano Caldeira|Raphael Claus|Normal
+3584012|30. Matchday|07/11/2021|20:00:00|Estadio Governador Magalhaes Pinto|Wilton Sampaio|Normal
+3584016|30. Matchday|07/11/2021|20:00:00|Estadio Nabi Abi Chedid|Anderson Daronco|Normal
+3584015|30. Matchday|07/11/2021|22:15:00|Arena Fonte Nova|Savio Pereira Sampaio|Normal
+3584014|30. Matchday|08/11/2021|00:30:00|Estadio Governador Placido Castelo|Heber Lopes|Normal
+3584017|30. Matchday|09/11/2021|00:00:00|Arena Conda|Denis Ribeiro Serafim|Normal
+3584018|30. Matchday|23/11/2021|23:00:00|Estadio Antonio Accioly|Flavio Rodrigues De Souza|Normal
+3584028|31. Matchday|05/11/2021|01:00:00|Arena Pantanal|Ricardo Marques Ribeiro Mg|Normal
+3584023|31. Matchday|10/11/2021|01:30:00|Arena Do Gremio|Vinicius Goncalves Dias Araujo|Normal
+3584026|31. Matchday|10/11/2021|22:30:00|Arena Da Baixada|Wilton Sampaio|Normal
+3584021|31. Matchday|10/11/2021|23:00:00|Estadio Urbano Caldeira|Leandro Pedro Vuaden Rs|Normal
+3584022|31. Matchday|10/11/2021|23:00:00|Estadio Governador Magalhaes Pinto|Braulio Da Silva Machado|Normal
+3584020|31. Matchday|11/11/2021|00:30:00|Allianz Parque|Anderson Daronco|Normal
+3584024|31. Matchday|11/11/2021|01:30:00|Estadio Governador Placido Castelo|Paulo Roberto Alves Junior|Normal
+3584025|31. Matchday|11/11/2021|01:30:00|Arena De Pernambuco|Raphael Claus|Normal
+3584027|31. Matchday|11/11/2021|01:30:00|Estadio Alfredo Jaconi|Bruno Arleu De Araujo|Normal
+3584019|31. Matchday|11/11/2021|23:00:00|Estadio Jornalista Mario Filho|Andre Luiz De Freitas Castro|Normal
+3584058|32. Matchday|13/11/2021|21:00:00|Estadio Antonio Accioly|Felipe Fernandes|Normal
+3584052|32. Matchday|13/11/2021|22:30:00|Estadio Raimundo Sampaio|Flavio Rodrigues De Souza|Normal
+3584053|32. Matchday|13/11/2021|23:00:00|Estadio Beirario|Ramon Abatti|Normal
+3584056|32. Matchday|13/11/2021|23:00:00|Estadio Nabi Abi Chedid|Rafael Traci|Normal
+3584050|32. Matchday|14/11/2021|01:00:00|Neo Quimica Arena|Rodolpho Toski Marques|Normal
+3584051|32. Matchday|14/11/2021|20:00:00|Estadio Cicero Pompeu De Toledo|Leandro Pedro Vuaden Rs|Normal
+3584049|32. Matchday|14/11/2021|22:15:00|Estadio Jornalista Mario Filho|Caio Max Augusto Vieira|Normal
+3584054|32. Matchday|14/11/2021|23:00:00|Estadio Governador Placido Castelo|Marcelo De Lima Henrique Rj|Normal
+3584057|32. Matchday|14/11/2021|23:00:00|Arena Conda|Alisson Sidnei Furtado|Normal
+3584055|32. Matchday|02/12/2021|22:00:00|Arena Fonte Nova|Flavio Rodrigues De Souza|Normal
+3584046|33. Matchday|16/11/2021|20:00:00|Arena Da Baixada|Savio Pereira Sampaio|Normal
+3584043|33. Matchday|16/11/2021|22:00:00|Arena Do Gremio|Caio Max Augusto Vieira|Normal
+3584041|33. Matchday|17/11/2021|23:00:00|Estadio Urbano Caldeira|Paulo Cesar Zanovelli|Normal
+3584042|33. Matchday|17/11/2021|23:00:00|Estadio Raimundo Sampaio|Leandro Pedro Vuaden Rs|Normal
+3584048|33. Matchday|17/11/2021|23:00:00|Arena Pantanal|Paulo Roberto Alves Junior|Normal
+3584044|33. Matchday|18/11/2021|00:00:00|Estadio Governador Placido Castelo|Raphael Claus|Normal
+3584040|33. Matchday|18/11/2021|00:30:00|Allianz Parque|Marcelo De Lima Henrique Rj|Normal
+3584047|33. Matchday|18/11/2021|00:30:00|Estadio Alfredo Jaconi|Ricardo Marques Ribeiro Mg|Normal
+3584039|33. Matchday|18/11/2021|01:30:00|Estadio Jornalista Mario Filho|Anderson Daronco|Normal
+3584045|33. Matchday|19/11/2021|01:00:00|Arena De Pernambuco|Flavio Rodrigues De Souza|Normal
+3584036|34. Matchday|29/10/2021|00:00:00|Estadio Nabi Abi Chedid|Bruno Arleu De Araujo|Normal
+3584032|34. Matchday|20/11/2021|23:00:00|Estadio Governador Magalhaes Pinto|Luiz Flavio De Oliveira Sp|Normal
+3584034|34. Matchday|20/11/2021|23:00:00|Estadio Governador Placido Castelo|Ramon Abatti|Normal
+3584037|34. Matchday|20/11/2021|23:00:00|Arena Conda|Rodolpho Toski Marques|Normal
+3584038|34. Matchday|21/11/2021|01:00:00|Estadio Antonio Accioly|Braulio Da Silva Machado|Normal
+3584033|34. Matchday|21/11/2021|01:30:00|Estadio Beirario|Savio Pereira Sampaio|Normal
+3584030|34. Matchday|21/11/2021|20:00:00|Neo Quimica Arena|Leandro Pedro Vuaden Rs|Normal
+3584029|34. Matchday|21/11/2021|21:00:00|Estadio Jornalista Mario Filho|Heber Lopes|Normal
+3584035|34. Matchday|21/11/2021|23:00:00|Arena Fonte Nova|Raphael Claus|Normal
+3584031|34. Matchday|25/11/2021|01:30:00|Estadio Cicero Pompeu De Toledo|Leandro Pedro Vuaden Rs|Normal
+3584060|35. Matchday|24/11/2021|01:30:00|Allianz Parque|Anderson Daronco|Normal
+3584059|35. Matchday|25/11/2021|01:30:00|Estadio Jornalista Mario Filho|Felipe Fernandes|Normal
+3584061|35. Matchday|25/11/2021|23:00:00|Estadio Urbano Caldeira|Wagner Do Nascimento Magalhaes|Normal
+3584064|35. Matchday|26/11/2021|00:00:00|Estadio Governador Placido Castelo|Paulo Roberto Alves Junior|Normal
+3584068|35. Matchday|29/11/2021|23:00:00|Estadio Antonio Accioly|Ramon Abatti|Normal
+3584067|35. Matchday|30/11/2021|23:00:00|Estadio Alfredo Jaconi|Felipe Fernandes|Normal
+3584062|35. Matchday|01/12/2021|01:00:00|Estadio Raimundo Sampaio|Luiz Flavio De Oliveira Sp|Normal
+3584063|35. Matchday|03/12/2021|00:00:00|Arena Do Gremio|Savio Pereira Sampaio|Normal
+3584066|35. Matchday|03/12/2021|23:00:00|Arena Da Baixada|Braulio Da Silva Machado|Normal
+3584065|35. Matchday|04/12/2021|00:00:00|Arena De Pernambuco|Leandro Pedro Vuaden Rs|Normal
+3584075|36. Matchday|26/11/2021|23:00:00|Arena Fonte Nova|Bruno Arleu De Araujo|Normal
+3584076|36. Matchday|27/11/2021|23:30:00|Estadio Nabi Abi Chedid|Anderson Daronco|Normal
+3584071|36. Matchday|28/11/2021|01:30:00|Estadio Cicero Pompeu De Toledo|Heber Lopes|Normal
+3584070|36. Matchday|28/11/2021|20:00:00|Neo Quimica Arena|Paulo Cesar Zanovelli|Normal
+3584072|36. Matchday|28/11/2021|20:00:00|Estadio Governador Magalhaes Pinto|Marielson Alves Silva|Normal
+3584073|36. Matchday|28/11/2021|23:00:00|Estadio Beirario|Braulio Da Silva Machado|Normal
+3584069|36. Matchday|01/12/2021|00:00:00|Estadio Jornalista Mario Filho|Caio Max Augusto Vieira|Normal
+3584078|36. Matchday|01/12/2021|02:00:00|Arena Pantanal|Paulo Roberto Alves Junior|Normal
+3584077|36. Matchday|04/12/2021|00:00:00|Arena Conda|Caio Max Augusto Vieira|Normal
+3584074|36. Matchday|04/12/2021|01:00:00|Estadio Governador Placido Castelo|Bruno Arleu De Araujo|Normal
+3584080|37. Matchday|05/12/2021|20:00:00|Neo Quimica Arena|Bruno Arleu De Araujo|Normal
+3584082|37. Matchday|05/12/2021|20:00:00|Estadio Governador Magalhaes Pinto|Rodolpho Toski Marques|Normal
+3584085|37. Matchday|05/12/2021|20:00:00|Arena Fonte Nova|Luiz Flavio De Oliveira Sp|Normal
+3584084|37. Matchday|05/12/2021|23:00:00|Estadio Governador Placido Castelo|Raphael Claus|Normal
+3584081|37. Matchday|06/12/2021|23:00:00|Estadio Cicero Pompeu De Toledo|Braulio Da Silva Machado|Normal
+3584086|37. Matchday|06/12/2021|23:00:00|Arena Da Baixada|Wagner Do Nascimento Magalhaes|Normal
+3584079|37. Matchday|07/12/2021|00:00:00|Estadio Jornalista Mario Filho|Anderson Daronco|Normal
+3584083|37. Matchday|07/12/2021|00:00:00|Estadio Beirario|Flavio Rodrigues De Souza|Normal
+3584088|37. Matchday|07/12/2021|00:00:00|Arena Pantanal|Heber Lopes|Normal
+3584087|37. Matchday|07/12/2021|01:00:00|Arena Conda|Paulo Cesar Zanovelli|Normal
+3584089|38. Matchday|10/12/2021|01:30:00|Estadio Jornalista Mario Filho|Leandro Pedro Vuaden Rs|Normal
+3584090|38. Matchday|10/12/2021|01:30:00|Arena Barueri|Savio Pereira Sampaio|Normal
+3584091|38. Matchday|10/12/2021|01:30:00|Estadio Urbano Caldeira|Wagner Do Nascimento Magalhaes|Normal
+3584092|38. Matchday|10/12/2021|01:30:00|Estadio Raimundo Sampaio|Caio Max Augusto Vieira|Normal
+3584093|38. Matchday|10/12/2021|01:30:00|Arena Do Gremio|Raphael Claus|Normal
+3584094|38. Matchday|10/12/2021|01:30:00|Estadio Governador Placido Castelo|Flavio Rodrigues De Souza|Normal
+3584095|38. Matchday|10/12/2021|01:30:00|Arena De Pernambuco|Ramon Abatti|Normal
+3584096|38. Matchday|10/12/2021|01:30:00|Estadio Nabi Abi Chedid|Braulio Da Silva Machado|Normal
+3584097|38. Matchday|10/12/2021|01:30:00|Estadio Alfredo Jaconi|Rodolpho Toski Marques|Normal
+3584098|38. Matchday|10/12/2021|01:30:00|Estadio Antonio Accioly|Paulo Roberto Alves Junior|Normal
